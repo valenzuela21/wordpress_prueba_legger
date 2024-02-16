@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&family=Staatliches&display=swap');
+
+:root {
+    /** Fuentes **/
+    --fuente-principal: 'Raleway', sans-serif;
+    --fuente-headings: 'Staatliches', cursive;
+
+}
+
+h1, h2 {
+    font-size: 39px;
+}
+
+h3, h4{
+    font-size: 28px;
+}
+
+h1,h2,h3,h4,h6{
+    font-family: var(--fuente-headings);
+}
+
+p, span, button, a{
+    font-family: var(--fuente-principal);
+    padding: 0px
+}
+
+
+.container-reto{
+    max-width: 1020px;
+    margin: auto;
+    display: block;
+}
+
+.container-reto img{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.container-reto .btn-reto{
+    background-color: #500876;
+    color: #fff;
+    border-radius: 4px;
+    width: 300px;
+    display: block;
+    text-align: center;
+    padding: 10px 5px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+.footer.contenedor{
+    text-align: center;
+}
+
+
