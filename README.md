@@ -25,3 +25,7 @@ Nota commando para instalar wordpress:
 docker-compose up -d
 ```
 
+
+![alt text](https://github.com/valenzuela21/wordpress_prueba_legger/blob/main/Screenshot_home.png?raw=true)
+
+![alt text](https://github.com/valenzuela21/wordpress_prueba_legger/blob/main/Screenshot_posttype.png?raw=true)
