@@ -7,12 +7,12 @@ Sigue los sigientes pasos:
 - Ingrese al phpAdmin e importe la base de datos se llama dbname.sql (Docker o este paquete ya cuenta con phpAdmin)
 
 Creedenciales Wordpress:
-user: admin
-pass: 123456
+> user: admin
+> pass: 123456
 
 Creedenciales phpAdmin:
-user: wordpress
-pass: valenzuela21
+> user: wordpress
+> pass: valenzuela21
 
 Por si acaso tienes alguna inquietud con cualquier creedencial y lo instalaste con Docker
 se encuentra en el archivo docker-compose.yml
@@ -22,4 +22,7 @@ Wordpress: http://localhost:8000/
 
 Nota commando para instalar wordpress:
 
+```
 docker-compose up -d
+```
+
