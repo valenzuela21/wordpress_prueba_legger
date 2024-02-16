@@ -1,14 +1,18 @@
-Wordpress Legger Proof
+## Wordpress Legger Proof
 
 Sigue los sigientes pasos:
 
 - Instalar Docker (No es obligatorio, pero si seria mas comodo o ideal)
 - Descargar Repositorio
 - Ingrese al phpAdmin e importe la base de datos se llama dbname.sql (Docker o este paquete ya cuenta con phpAdmin)
+
 Creedenciales Wordpress:
-http://localhost:8000/wp-login.php?loggedout=true&wp_lang=es_ES
 user: admin
 pass: 123456
+
+Creedenciales phpAdmin:
+user: wordpress
+pass: valenzuela21
 
 Por si acaso tienes alguna inquietud con cualquier creedencial y lo instalaste con Docker
 se encuentra en el archivo docker-compose.yml
