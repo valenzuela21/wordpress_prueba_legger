@@ -17,8 +17,8 @@ Creedenciales phpAdmin:
 Por si acaso tienes alguna inquietud con cualquier creedencial y lo instalaste con Docker
 se encuentra en el archivo docker-compose.yml
 
-phpAdmin: http://localhost:8080/
-Wordpress: http://localhost:8000/
+phpAdmin: http://localhost:8080/ <br/>
+Wordpress: http://localhost:8000/ <br/>
 
 Nota commando para instalar wordpress:
 
